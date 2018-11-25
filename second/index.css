@@ -1,0 +1,72 @@
+header, section {
+    width: 95%;
+    height: 250px;
+    margin: 10px auto;
+    padding: 10px;
+    
+    
+}
+header {
+    border: 5px solid black;
+}
+
+.left {
+    height: 140px;
+    width: 60px;
+    margin: 80px 10px 0 10px;
+    background-color: purple;
+    float: left;
+}
+
+.mid{
+    height: 220px;
+    width: 300px;
+    margin: 0 10px;
+    background-color: green;
+    float: left;
+
+}
+
+.right{
+height: 220px;
+width: 220px;
+background-color: lightblue;
+float: left;
+margin: 0 15px;
+border-radius: 110px;
+}
+
+section {
+    border: 5px dotted black;
+    padding: 5%;
+}
+
+.section-box{
+    height: 95%;
+    width: 95%;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    box-shadow: 10px 4px 10px rgba(0, 0, 0, 0.904);
+}
+
+.section2 {
+    width: 50%;
+    height: 250px;
+    margin: 10px auto;
+    border: 1px solid rgb(160, 160, 160);
+    padding: 5%;
+    box-shadow: 5px 4px 5px rgb(160, 160, 160);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    color: darkblue;
+}
+
+p {
+    margin: 15%;
+}
+
+
+
+
+
